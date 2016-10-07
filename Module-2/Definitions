@@ -1,0 +1,50 @@
+web SaaS
+Node.js 		III
+.NET
+Ruby on Rails
+RDBMS
+AWS 			IV
+Angular			V
+React			IV
+MS-SQL
+MongoDB			V
+Objective-C
+SQL 			III
+RESTful API		I
+AJAX
+MEAN stack (MongoDB, Express/Hapi.js, Angular, Node)
+Jasmine/Karma
+Python			V
+Apache
+HAProxy
+REST API
+
+API
+Application programming interfaces make it easier for developers to use certain technologies in building applications. By abstracting the underlying implementation and only exposing objects or actions the developer needs, an API reduces the cognitive load on a programmer. An API for file input/output might give the developer a function that copies a file from one location to another without requiring that the developer understand the file system operations occurring behind the scenes.
+
+Node.js
+Node.js allows the creation of Web servers and networking tools using JavaScript and a collection of "modules" that handle various core functionality. Node.js's modules use an API designed to reduce the complexity of writing server applications.
+
+AWS
+Amazon Web Services offers a suite of cloud-computing services that make up an on-demand computing platform. AWS has more than 70 services, spanning a wide range, including compute, storage, networking, database, analytics, application services, deployment, management, mobile, developer tools and tools. A service to provide large computing capacity quicker and cheaper than a client company building an actual physical server farm.
+
+Angular.js
+A complete JavaScript-based front-end web app framework that addresses challenges encountered in developing single-page applications.
+
+React.js
+JavaScript library providing a view for data rendered as HTML. React views are typically rendered using components that contain additional components specified as custom HTML tags. React promises programmers a model in which subcomponents cannot directly affect enclosing components ("data flows down"); efficient updating of the HTML document when data changes; and a clean separation between components on a modern single-page application.
+
+MongoDB 
+document-oriented database program. A NoSQL database program, avoids the traditional table-based relational database structure in favor of JSON-like documents with dynamic schemas (It calls the format BSON), making the integration of data in certain types of applications easier and faster. Alternative to MySQL
+
+SQL
+Special-purpose programming language designed for managing data held in a relational database management system or for stream processing in a relational data stream management system.
+
+MySQL 
+open source Relational database management system. rdms: dbms based on relational model. RDBMSs have been a common choice for the storage of information in new databases used for financial records, manufacturing and logistical information, personnel data, and other applications since the 1980s.
+
+RESTful API
+Architectural style used for web development. Systems and sites designed using this style aim for fast performance, scalability, simplicity of a uniform interfrace, modfiability of components to meet changing needs, visibility of communication between components by service agents, portability of components by moving program code with the data, reliability
+
+Python
+Python is a widely used high-level, general-purpose, interpreted, dynamic programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than possible in languages such as C++ or Java.
